@@ -27,12 +27,13 @@ h3.video-projects{
 
 /* Section Headers */
 h2 {
-    border-top: 2px solid black;
-    color: lightblue;
+    border-bottom: 2px solid black;
+    color: cornflowerblue;
     font-size: 1.6em;
     text-align: center;
     margin-top:30px;
     text-transform: uppercase;
+    background-color: lightblue;
 }
 
 /* Lists */
