@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93068bd4-1295-4641-9062-03f2eb573163" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Resume.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resume.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResumePage.html" afterDir="false" />
+    <list default="true" id="93068bd4-1295-4641-9062-03f2eb573163" name="Changes" comment="final Resume page">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/Resume.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +65,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739244733035</updated>
-      <workItem from="1739244734176" duration="9056000" />
+      <workItem from="1739244734176" duration="10292000" />
     </task>
+    <task id="LOCAL-00001" summary="final Resume page">
+      <option name="closed" value="true" />
+      <created>1739255260534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739255260534</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final Resume page">
+      <option name="closed" value="true" />
+      <created>1739256054455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739256054455</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final Resume page" />
+    <option name="LAST_COMMIT_MESSAGE" value="final Resume page" />
   </component>
 </project>
